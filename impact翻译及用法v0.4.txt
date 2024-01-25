@@ -1,0 +1,119 @@
+﻿by:也不知道是谁的 常见的功能都翻译了 Misc、Minigame没有翻译，用不到。同时附有baritone AI的用法
+(后面跟问号的是不确定的)
+Combat 战斗类
+
+Aimbot 自瞄(没什么用，不如killaura)
+Anti bot 屏蔽假人 (我觉得你不会开着这个作弊端去玩hypixel)
+Auto Armor 自动穿装备
+Auto Clicker 连点(鸡肋，开了以后挖不了方块)
+Auto Totem 自动换副手（有不死图腾时自动使用）
+Auto Weapon 自动选择武器
+Bow Aimbot 弓自瞄(射的时候不需要瞄准)
+Criticals 刀刀暴击（推荐开启）
+Crystal Aura 末影水晶光环（超快速攻击末影水晶）
+HitBox 自动攻击实体
+Hunt 自动跟踪，杀死生物
+Kill Aura 杀戮光环(好好调，特别有用的)
+Pot 自动喷药(你到底备了多少治疗药水？)
+SmoothAim 更平滑的瞄准
+Soup 自动喝汤(我觉得你不会开这个客户端去玩PVP服务器)
+
+Render 显示类
+
+Anti Blind 清除药水粒子效果
+Anti Overlay
+Breadcrumbs
+Camera Clip 使用Freecam 灵魂出窍可以穿墙
+Chams 透视物体
+ClickGui 右键菜单
+Enchant Color 颜色聊天
+ESP 透视物体边框
+HUD 功能显示
+Light 无限夜视
+Main Menu 功能菜单(调功能的界面)
+Nametaps 名字显示
+No Render 屏蔽显示？
+Radar 小地图
+Search 搜索
+Storage ESP 透视方块（重要）
+Tracers 与生物之间显示一条线(找人时有用)
+Trajectories 箭矢珍珠预测弹道
+
+Exploit 漏洞类
+
+Anti Fire 屏蔽火焰
+Anti Hunger 使饥饿变得更慢 (碰到水后会掉许多血，可以配合水上飘)
+Franky
+GhostHand 幽灵手
+Ignite点火(不可用)
+Lag
+New Chunks 新区块？
+Portals 
+
+
+Player 玩家类
+
+Anti AFK 防止挂机踢出
+Auto Eat 自动吃食物
+Auto Eject 自动丢背包垃圾
+Auto Farm 自动耕地
+Auto Fish 自动钓鱼
+Auto Mine 自动挖矿(也可以.b mine <矿物名>，不过这个更方便)
+Auto Tool 自动切换工具(和上面是一套)
+Blink 瞬移（不要用，会死）
+Chest Stealer 快速取箱子物品
+Fast Interact 快速连接(快速挖掘快速使用等)
+Freecam 灵魂出窍(自由移动，不会被别人看到)
+Inventory  
+Item Saver 保存物品？
+Liquid Interact 聊天室
+No Fall 无掉落伤害
+No Rotate
+Respawn 自动重生
+Scaffold 自动搭路
+Skin Blinker 类似瞬移？
+Sneak 自动潜行
+
+Movement 移动类
+
+Air Jump 空气跳(可以配合longjump等)
+Anti Hazard 自动避免危险
+Auto Jump 自动跳跃
+Auto Walk 自动行走(可以自动走到非常远的地方)
+Baritone minecraft的自动AI，详细请见Baritone用法
+BoatFly 使用船飞行
+Click TP 点击TP（右键点击某个方块即可瞬移到那，有反作弊时无法使用）
+Elytra+ 更牛逼的鞘翅（在使用鞘翅时开启可以让上升速度变快，下降速度减慢）
+Fast Fall 快速掉落
+Flight 飞行 (推荐vanilla 20倍速awa)
+High Jump 高跳
+Jesus 水上行走(有两个模式，一个是自动往上浮，一个是真正的水上行走)
+Levitation Contral 界面行走（在开启箱子，物品栏时允许移动）
+Long Jump 远跳 (配合airjump就是飞行)
+No Push 消除自身碰撞体积（别人推不动你）
+No Slow 禁止变慢 (比如在吃食物时不会减速)
+Parkour 适合走楼梯的自动跳跃
+Riding 关于载具的加速一系列
+Safe Walk 走不出方块的边缘（没用，scaffold更好）
+Speed 加速（pvp推荐vhop模式）
+Spider 蜘蛛人（爬墙）
+Sprint 强制疾跑
+Step 自动上台阶（加速）
+Terrain 修改地形上的移动
+Velocity 防击退
+Yaw 在你移动视野时更难受233
+
+World 世界类
+
+Build 建造
+Nuker 迅速挖掉周围的方块(不可用，在没有反作弊的情况下可以使用)
+Timer 变速齿轮
+Weather 一直是制定的天气awa
+ 
+附:Baritone用法
+自动挖矿 .b mine <矿物名>
+自动建筑 .b bulid <文件名>
+自动寻路 .b goto <坐标>
+自动收菜（种菜） .b farm
+停止一切动作 .b stop/.b cancel
+
